@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: e9390d60-ac3d-b347-81b9-40c982618432
 resourcetype: Document
 title: crraslides.pdf
 uid: 10a647b3-4c9b-dbd0-96c5-9e492a00aa9a

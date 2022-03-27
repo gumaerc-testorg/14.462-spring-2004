@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: e9390d60-ac3d-b347-81b9-40c982618432
 resourcetype: Document
 title: obstfeld.pdf
 uid: ff9794ac-fa34-8910-55e0-74a1ba9bdd9e

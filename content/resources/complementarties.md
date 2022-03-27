@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: e9390d60-ac3d-b347-81b9-40c982618432
 resourcetype: Document
 title: complementarties.pdf
 uid: 3ac608be-617f-c7ac-5139-5e40f4c5bce5

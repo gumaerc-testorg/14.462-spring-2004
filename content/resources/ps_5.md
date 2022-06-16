@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/14-462-advanced-macroeconomics-ii-spring-2004/4f2d4a6e949a5df0e0de96130a9a0247_ps_5.pdf
+file: /courses/14-462-advanced-macroeconomics-ii-spring-2004/4f2d4a6e949a5df0e0de96130a9a0247_ps_5.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
@@ -12,4 +12,8 @@ parent_uid: 956a9c6e-8a7d-20d2-0f74-faa7e09e543d
 resourcetype: Document
 title: ps_5.pdf
 uid: 4f2d4a6e-949a-5df0-e0de-96130a9a0247
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

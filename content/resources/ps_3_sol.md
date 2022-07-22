@@ -5,6 +5,7 @@ file: /courses/14-462-advanced-macroeconomics-ii-spring-2004/ccba841be4e5a6a791d
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection

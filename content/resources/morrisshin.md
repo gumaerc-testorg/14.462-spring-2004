@@ -5,6 +5,7 @@ file: /courses/14-462-advanced-macroeconomics-ii-spring-2004/72be39c46b740434b0d
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 Summary of lecture.
-

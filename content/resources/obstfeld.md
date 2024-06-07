@@ -2,6 +2,7 @@
 content_type: resource
 description: Summary of lecture.
 file: /courses/14-462-advanced-macroeconomics-ii-spring-2004/ff9794acfa34891055e074a1ba9bdd9e_obstfeld.pdf
+file_size: 113571
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

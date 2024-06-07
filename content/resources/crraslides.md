@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture outline on slides.
 file: /courses/14-462-advanced-macroeconomics-ii-spring-2004/10a647b34c9bdbd096c59e492a00aa9a_crraslides.pdf
+file_size: 227262
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

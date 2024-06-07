@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/14-462-advanced-macroeconomics-ii-spring-2004/14c9ef81a7103c9d6f15f51977e59d8c_midtermexam_sol.pdf
+file_size: 114240
 file_type: application/pdf
 learning_resource_types:
 - Exams

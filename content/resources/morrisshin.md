@@ -2,6 +2,7 @@
 content_type: resource
 description: Summary of lecture.
 file: /courses/14-462-advanced-macroeconomics-ii-spring-2004/72be39c46b740434b0dc8e030ae6ee86_morrisshin.pdf
+file_size: 143305
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

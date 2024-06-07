@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/14-462-advanced-macroeconomics-ii-spring-2004/124f6bdca00d1c6314898749a39da62b_ps4.pdf
+file_size: 68711
 file_type: application/pdf
 learning_resource_types:
 - Assignments

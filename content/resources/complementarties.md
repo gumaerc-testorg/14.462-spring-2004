@@ -2,6 +2,7 @@
 content_type: resource
 description: Summary of lecture.
 file: /courses/14-462-advanced-macroeconomics-ii-spring-2004/3ac608be617fc7ac51395e40f4c5bce5_complementarties.pdf
+file_size: 153266
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

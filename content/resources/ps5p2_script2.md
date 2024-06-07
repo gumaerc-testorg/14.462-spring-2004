@@ -2,6 +2,7 @@
 content_type: resource
 description: Supporting MATLAB file for the completion of problem set.
 file: /courses/14-462-advanced-macroeconomics-ii-spring-2004/14dc220d1455063cf4ab7f0667b9a975_ps5p2_script2.m
+file_size: 2060
 file_type: text/plain
 learning_resource_types:
 - Assignments

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Guidelines and instructions for use of assignment related MATLAB files.
-file: /ol-ocw-studio-app/courses/14-462-advanced-macroeconomics-ii-spring-2004/291793bce4afd8238127868acb44c996_readme.txt
+file: /courses/14-462-advanced-macroeconomics-ii-spring-2004/291793bce4afd8238127868acb44c996_readme.txt
 file_size: 501
 file_type: text/plain
 learning_resource_types:

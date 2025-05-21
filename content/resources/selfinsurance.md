@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Summary of lecture.
-file: /ol-ocw-studio-app/courses/14-462-advanced-macroeconomics-ii-spring-2004/ecea3a731c97e68397d072fbcf7ab269_selfinsurance.pdf
+file: /courses/14-462-advanced-macroeconomics-ii-spring-2004/ecea3a731c97e68397d072fbcf7ab269_selfinsurance.pdf
 file_size: 126012
 file_type: application/pdf
 learning_resource_types:

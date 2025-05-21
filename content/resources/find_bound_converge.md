@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Supporting MATLAB file for the completion of problem set.
-file: /ol-ocw-studio-app/courses/14-462-advanced-macroeconomics-ii-spring-2004/bca46de2ec42c61683a3c06643352899_find_bound_converge.m
+file: /courses/14-462-advanced-macroeconomics-ii-spring-2004/bca46de2ec42c61683a3c06643352899_find_bound_converge.m
 file_size: 1681
 file_type: text/plain
 learning_resource_types:

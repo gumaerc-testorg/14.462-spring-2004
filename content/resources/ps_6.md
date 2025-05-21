@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/14-462-advanced-macroeconomics-ii-spring-2004/95463a8bb8927dd49f67a8fa83ec4bfd_ps_6.pdf
+file: /courses/14-462-advanced-macroeconomics-ii-spring-2004/95463a8bb8927dd49f67a8fa83ec4bfd_ps_6.pdf
 file_size: 103715
 file_type: application/pdf
 learning_resource_types:

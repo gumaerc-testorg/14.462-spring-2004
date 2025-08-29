@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Supporting MATLAB file for the completion of problem set.
-file: /courses/14-462-advanced-macroeconomics-ii-spring-2004/2886282f788533a44b248bd8120f9b99_find_bound_diverge.m
+file: /ol-ocw-studio-app/courses/14-462-advanced-macroeconomics-ii-spring-2004/2886282f788533a44b248bd8120f9b99_find_bound_diverge.m
 file_size: 1570
 file_type: text/plain
 learning_resource_types:

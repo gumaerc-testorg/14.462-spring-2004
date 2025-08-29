@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Summary of lecture.
-file: /courses/14-462-advanced-macroeconomics-ii-spring-2004/63dfd29c29afdbcc7ccf7e093f169aa9_aiyagari_g_smith.pdf
+file: /ol-ocw-studio-app/courses/14-462-advanced-macroeconomics-ii-spring-2004/63dfd29c29afdbcc7ccf7e093f169aa9_aiyagari_g_smith.pdf
 file_size: 164214
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Supporting MATLAB file for the completion of problem set.
-file: /courses/14-462-advanced-macroeconomics-ii-spring-2004/ef762dde1e3b4fd9c1de55ac3f4bca39_ps5p2_zunderbar.m
+file: /ol-ocw-studio-app/courses/14-462-advanced-macroeconomics-ii-spring-2004/ef762dde1e3b4fd9c1de55ac3f4bca39_ps5p2_zunderbar.m
 file_size: 684
 file_type: text/plain
 learning_resource_types:
